@@ -3,4 +3,4 @@ print("First Commit")
 
 print("Second Commit")
 
-print("August $100")
+print("August $500")
